@@ -1,0 +1,80 @@
+.body
+{
+        background: url("https://previews.123rf.com/images/ratanakhailee/ratanakhailee1505/ratanakhailee150500039/39559717-gold-gradient-color-with-grunge-texture.jpg");
+        background-size: contain;
+}
+
+.halong.tour.uluru.taj.sultan
+{
+        display: flex;
+        justify-content: center;
+        filter: contrast(170%);
+}
+
+.halong
+{
+        filter: opacity(65%);
+}
+
+.taj
+{
+        filter: opacity(65%);
+}
+
+
+h1
+{
+        text-align: center;
+        font-wight: bold;
+        border: 3px solid black;
+        width: 60%;
+        margin: auto;
+}
+
+h4
+{
+        text-align: justify;
+        text-decoration: underline;
+}
+.title_nom
+{                                                                                                                                                                                                    
+    font-style: OCR A Std, monospace;
+        border: 2px solid white;
+        border-radius: 20px;
+        color: gold;
+        text-shadow: 3px 3px 3px GoldRod;
+        background: black;                                                                                                                                                                           
+        text-align: center;
+        font-size: 25px;                                                                                                                                                                             
+        width:40%;                                                                                                                                                                                   
+        margin: auto;
+        display: flex;
+        justify-content: center;
+}                 
+.title_date                                                                                                                                                                                  
+{                                                                                                                                                                                                    
+    border: 2px solid GoldRod;
+    color: Gold;
+    font-size: 15px;
+    font-style: italic;
+    background: black;
+    width: 20%;                                                                                                                                                                                  
+    margin: auto;                                                                                                                                                                                
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;                                                                                                                                                                    
+ }
+
+.comm p                                                                                                                                                                                      
+{
+    color: black;
+    background-color: rgba(0, 0, 0, 0.3);                                                                                                                                                        
+    font-style: URW Chancery L, cursive;
+    width: 70  
+    margin: auto;
+}
+.membres
+{                                                                                                                                                                                                    
+    width: 30%;
+        border: 3px solid white;
+}
